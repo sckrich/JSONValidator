@@ -1,0 +1,48 @@
+{
+        "unit_id": 898,
+        "unit_name": "Конвертер-1",
+        "unit_equipment": [
+            {
+                "eq_id": 247723,
+                "eq_name": "КВ1-УДКК",
+                "eq_type": 6,
+                "material_name": "CaC2",
+                "material_code": 387,
+                "batch_id": 5551,
+                "batch_no": "Партия Карбид Ca 03.09.2025 06:20:47",
+                "batch_no_extra": "null",
+                "remain_wgt": 1410,
+                "remain_wgt_pim": 1415,
+                "bin_net_wgt": 1614,
+                "density": 2220,
+                "material_chemistry": [
+                    {
+                        "elem_code": 6,
+                        "elem_name": "C",
+                        "elem_content": 0.5
+                    },
+                    {
+                        "elem_code": 16,
+                        "elem_name": "S",
+                        "elem_content": 0.5
+                    },
+                    {
+                        "elem_code": 107,
+                        "elem_name": "SiO2",
+                        "elem_content": 2
+                    },
+                    {
+                        "elem_code": 108,
+                        "elem_name": "CaO",
+                        "elem_content": 15
+                    },
+                    {
+                        "elem_code": 1000001,
+                        "elem_name": "CaС2",
+                        "elem_content": 82
+                    }
+                ]
+            }
+        ],
+        "eq_params": []
+    }
